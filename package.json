@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "First project",
+  "main": "brain-games.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Cendelweer/frontend-project-44.git"
+  },
+  "keywords": [
+    "Frontend-project/Braing-Games"
+  ],
+  "author": "Dmitriy Ignatev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cendelweer/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/Cendelweer/frontend-project-44#readme",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
+}
